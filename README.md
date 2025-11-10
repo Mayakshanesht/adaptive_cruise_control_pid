@@ -6,11 +6,19 @@ It combines a physics-based C++ backend with an interactive Python visualization
 ---
 
 
-## ☁️Hugging Face Space
+## ☁️ Hugging Face Space
 
-![ACC Simulation APP](https://huggingface.co/spaces/mayur-waghchoure/acc-pid-simulator)
+[👉 Live App on Hugging Face](https://huggingface.co/spaces/mayur-waghchoure/acc-pid-simulator)
 
-![ACC Simulation Demo](.\assets\acc_animation_enhanced.mp4)
+---
+
+## 🎬 Example Simulation Output
+
+<video width="640" controls>
+  <source src="assets/acc_animation_enhanced.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🧠 Key Features
@@ -124,7 +132,7 @@ build/acc_sim.csv
 ## 🎬 Visualize Simulation Results
 
 ```bash
-cd scripts
+cd ../scripts
 python3 visualization.py
 ```
 
@@ -142,7 +150,6 @@ python3 visualization.py
 ## 🌐 Run the Interactive Gradio App
 
 ```bash
-cd scripts
 python3 app.py
 ```
 
@@ -177,12 +184,12 @@ Use **step-response and lead-follow tests** instead:
 
 
 ---
+## 🎬 Example Simulation Output
 
-## 📸 Example Output
-
-![ACC Simulation Demo](.\assets\acc_animation_enhanced.mp4)
-
-
+<video width="640" controls>
+  <source src="assets/acc_animation_enhanced.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 
