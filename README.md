@@ -14,10 +14,8 @@ It combines a physics-based C++ backend with an interactive Python visualization
 
 ## 🎬 Example Simulation Output
 
-<video width="640" controls>
-  <source src="assets/acc_animation_enhanced.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![ACC Simulation Demo](assets/acc_animation_enhanced.gif)
+
 
 
 
@@ -186,10 +184,7 @@ Use **step-response and lead-follow tests** instead:
 ---
 ## 🎬 Example Simulation Output
 
-<video width="640" controls>
-  <source src="assets/acc_animation_enhanced.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![ACC Simulation Demo](assets/acc_animation_enhanced.gif)
 ---
 
 
